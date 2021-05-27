@@ -37,9 +37,9 @@
       "skip_testcases_on_fail": false,
       "desiredCapabilities": {
         "build": "Nightwatch-Selenium-Sample",
-        "visual": false,
-        "console": false,
-        "network": false
+        "visual": true,
+        "console": true,
+        "network": true
       }
     },
     "chrome": {
